@@ -1,0 +1,389 @@
+{
+  "sections": {
+    "a09415e6-5144-47a3-9135-156b39430a2f": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bossal-stores"
+          }
+        },
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pebs-confectionaries"
+          }
+        },
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reigners-kitchen"
+          }
+        },
+        "d3cfbcbb-89bf-4ff5-9831-a3af4535d329": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wonderland-foods"
+          }
+        },
+        "46c2978f-8e69-4e17-a988-e633545d9664": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piibites-pastry"
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-0",
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-1",
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-2",
+        "d3cfbcbb-89bf-4ff5-9831-a3af4535d329",
+        "46c2978f-8e69-4e17-a988-e633545d9664"
+      ],
+      "settings": {
+        "title": "Vendors",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "c45a7157-561b-4630-a7dc-d544d0cb7f06": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your favourite Vendors in one platform",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Search for Vendors",
+            "button_link": "https:\/\/foodhunch.com\/pages\/all-vendors",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-0",
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-1",
+        "template--19825246863671__c45a7157-561b-4630-a7dc-d544d0cb7f06-168887726839481351-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 40
+      }
+    },
+    "2b14dbfd-b630-4939-8a1c-31a3f746d61d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19811391144247__2b14dbfd-b630-4939-8a1c-31a3f746d61d-16882259405ff8989a-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/different-Nigerian-dishes.jpg",
+            "heading": "Food",
+            "heading_size": "h1",
+            "subheading": "<strong>All varieties of Nigerian dishes<\/strong>",
+            "button_label": "ORDER NOW",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19811391144247__2b14dbfd-b630-4939-8a1c-31a3f746d61d-16882259405ff8989a-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CopyofCopyofCopyofCopyof9JASNACKBOX_3_1080x_89c2fe86-fcfd-43ac-a85d-ffc663cf9e16.png",
+            "heading": "Snacks",
+            "heading_size": "h1",
+            "subheading": "Indulge in Tempting Snack Sensations and Satisfy Your Cravings Today!",
+            "button_label": "ORDER NOW",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "689185e1-6932-4fb1-a700-0f02a2e8220b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9e34f204-2a4f-4315-ad60-a3e0c2a4bd11.png",
+            "heading": "Pastries",
+            "heading_size": "h1",
+            "subheading": "Savor Irresistible Flavors: Discover Exquisite Pastries!",
+            "button_label": "ORDER NOW",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19811391144247__2b14dbfd-b630-4939-8a1c-31a3f746d61d-16882259405ff8989a-0",
+        "template--19811391144247__2b14dbfd-b630-4939-8a1c-31a3f746d61d-16882259405ff8989a-1",
+        "689185e1-6932-4fb1-a700-0f02a2e8220b"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "9f97dad5-121a-4a77-ac69-58dd06cf071b": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cooked-dishes"
+          }
+        },
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "drinks"
+          }
+        },
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastries"
+          }
+        },
+        "a3f9497f-5032-4672-88b7-1d3b18f49016": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "snacks"
+          }
+        }
+      },
+      "block_order": [
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-0",
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-1",
+        "template--19811391144247__9f97dad5-121a-4a77-ac69-58dd06cf071b-1688307869572c8c53-2",
+        "a3f9497f-5032-4672-88b7-1d3b18f49016"
+      ],
+      "settings": {
+        "title": "Our Categories",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "37374649-9b01-4413-87b7-26fa1637faf3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cakes"
+          }
+        },
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-0",
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-1",
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-2"
+      ],
+      "settings": {
+        "title": "More Categories",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "c19aea2c-e27e-4571-9c81-71891c44f397": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Craving food?",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We got you covered<\/p>"
+          }
+        },
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Search all our varieties",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-0",
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-1",
+        "template--19825246863671__c19aea2c-e27e-4571-9c81-71891c44f397-168860536894a6986c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "2acc6402-7526-4376-b9b6-5dcfcbc6a0d7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Freshly Prepared Pastries",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "pastries",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0e019926-85c1-4bf5-bab2-c54dff410e7e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start selling your product now",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-1": {
+          "type": "text",
+          "settings": {
+            "text": "Let's set up a meeting with our team to get you started as a food vendor on Foodhunch. We're excited to help you begin earning and support your journey",
+            "text_style": "body"
+          }
+        },
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Let's talk on Whatsapp",
+            "button_link_1": "https:\/\/wa.link\/5xgvx0",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-0",
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-1",
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slide_16_9_-_1_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "a09415e6-5144-47a3-9135-156b39430a2f",
+    "c45a7157-561b-4630-a7dc-d544d0cb7f06",
+    "2b14dbfd-b630-4939-8a1c-31a3f746d61d",
+    "9f97dad5-121a-4a77-ac69-58dd06cf071b",
+    "37374649-9b01-4413-87b7-26fa1637faf3",
+    "c19aea2c-e27e-4571-9c81-71891c44f397",
+    "2acc6402-7526-4376-b9b6-5dcfcbc6a0d7",
+    "0e019926-85c1-4bf5-bab2-c54dff410e7e"
+  ]
+}

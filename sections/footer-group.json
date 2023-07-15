@@ -1,0 +1,46 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "73eaaee5-b198-4508-aa51-19a38e1c27a7": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Quick links<\/strong>",
+            "menu": "footer"
+          }
+        },
+        "afac9afb-cd58-470f-81fa-ba5bff5aa832": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Our Mission at Foodhunch<\/strong>",
+            "subtext": "<p>Our mission is to connect food vendors with their loyal customers effortlessly.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "73eaaee5-b198-4508-aa51-19a38e1c27a7",
+        "afac9afb-cd58-470f-81fa-ba5bff5aa832"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "<strong>Let's send you our latest updates<\/strong>",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

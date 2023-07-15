@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e056011a-2317-4cc0-b37e-22297f46d768": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cooked-dishes"
+          }
+        },
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "drinks"
+          }
+        },
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastries"
+          }
+        },
+        "f4e628f0-987a-4dc2-850a-a2dfeef434a7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "snacks"
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-0",
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-1",
+        "template--19825246568759__e056011a-2317-4cc0-b37e-22297f46d768-168846200668fb74ad-2",
+        "f4e628f0-987a-4dc2-850a-a2dfeef434a7"
+      ],
+      "settings": {
+        "title": "Categories",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "e056011a-2317-4cc0-b37e-22297f46d768"
+  ]
+}

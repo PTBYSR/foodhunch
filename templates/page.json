@@ -1,0 +1,177 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "2a794d1b-3424-432b-acdf-be6977c2dd34": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bossal-stores"
+          }
+        },
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pebs-confectionaries"
+          }
+        },
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reigners-kitchen"
+          }
+        },
+        "c81e5a2e-b9cb-4d8d-a9c6-a32e9f7ffe0b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wonderland-foods"
+          }
+        },
+        "742ac66e-e07d-41a5-b31f-8a794f120a6b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ruth-cakes-and-pastries"
+          }
+        },
+        "8b298410-d86d-4b4c-889c-3fcf19109dab": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piibites-pastry"
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-0",
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-1",
+        "template--19825246961975__2a794d1b-3424-432b-acdf-be6977c2dd34-16888762409cab3c8d-2",
+        "c81e5a2e-b9cb-4d8d-a9c6-a32e9f7ffe0b",
+        "742ac66e-e07d-41a5-b31f-8a794f120a6b",
+        "8b298410-d86d-4b4c-889c-3fcf19109dab"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603": {
+      "type": "rich-text",
+      "blocks": {
+        "19965418-1c68-4f3f-9b66-9c3e9d7b5e1b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Why order from us?",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "No fear, We meet all vendors physically",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Foodhunch, we personally meet vendors to ensure authenticity, quality, and freshness. Our team carefully assesses products, establishing direct connections with vendors to maintain rigorous standards. Trust us to bring you exceptional culinary experiences, handpicked and guaranteed for authenticity and freshness. Experience the Foodhunch difference today.<\/p>"
+          }
+        },
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Start selling on Foodhunch",
+            "button_link": "https:\/\/wa.link\/5xgvx0",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "19965418-1c68-4f3f-9b66-9c3e9d7b5e1b",
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-0",
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-1",
+        "template--19825246961975__d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603-1688457377df19f69a-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "93ac7bb3-4da1-429b-b133-498f794c6893": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start selling your product now",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-1": {
+          "type": "text",
+          "settings": {
+            "text": "Let's set up a meeting with our team to get you started as a food vendor on Foodhunch. We're excited to help you begin earning and support your journey",
+            "text_style": "body"
+          }
+        },
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Let's talk on Whatsapp",
+            "button_link_1": "https:\/\/wa.link\/5xgvx0",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-0",
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-1",
+        "template--19825246961975__93ac7bb3-4da1-429b-b133-498f794c6893-168846050440137095-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_14_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2a794d1b-3424-432b-acdf-be6977c2dd34",
+    "d63b9ac3-60cd-4fe3-b3f1-8e556c9b1603",
+    "93ac7bb3-4da1-429b-b133-498f794c6893"
+  ]
+}
