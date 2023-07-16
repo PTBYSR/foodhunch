@@ -27,24 +27,7 @@
         </span>
         {{- collection.title | escape -}}
       </h1>
-
-      <p
-        id="vid">{{ collection.id }}</p>
-
-      <!-- HTML code for the food vendor page -->
-      
-      <div>
-        <h2>Food Vendor Page</h2>
-        <button
-          id="share-button">Share</button>
-        <div
-          id="share-count"></div>
-      </div>
-      <p
-        id="demo"></p>
-       
-
-
+{{ collection.id }}
       {%- if section.settings.show_collection_description -%}
         <div
           class="collection-hero__description rte">{{ collection.description }}</div>
